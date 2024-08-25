@@ -5,5 +5,5 @@ The game contains:
 - Debug Menu: Most common Commands usable during playing to help debug things as first Tab. It is made with Widgets: Buttons, Overlay, Border, Vertical/Horizontal Boxes, Editable Text, Expandable Area, Widget Switcher...
 
 Progress:
-25.08.2024
+- 25.08.2024
 ![alt text](https://raw.githubusercontent.com/jakkwi/Games/main/TopDownRPG/ScreenShots/25.08.2024.png?raw=true)
