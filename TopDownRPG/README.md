@@ -12,3 +12,7 @@ The game contains on day 20.09.2024:
 ![alt text](https://raw.githubusercontent.com/jakkwi/Games/refs/heads/main/TopDownRPG/Screenshots/grid.png?raw=true)
   
 - Pathfinding with diagonal and without diagonals. On debug menu we can see indexes, types, cost, sort, discovered, and alaysed list of tiles.
+![alt text](https://raw.githubusercontent.com/jakkwi/Games/refs/heads/main/TopDownRPG/Screenshots/pathfinding.png?raw=true)
+
+- Spells: Units (and debug menu) can cast spells with or without line of sight. Single target and/or area of effect. Linetraces, range, shape of spell, and LoS can be modified during game.
+![alt text](https://raw.githubusercontent.com/jakkwi/Games/refs/heads/main/TopDownRPG/Screenshots/spells.png?raw=true)
