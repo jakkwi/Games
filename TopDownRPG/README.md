@@ -18,6 +18,5 @@ The game contains on day 20.09.2024:
 ![alt text](https://raw.githubusercontent.com/jakkwi/Games/refs/heads/main/TopDownRPG/Screenshots/spells.png?raw=true)
 
 - Combat and AI: Units can move and cast a spell to heal/damage the other units. Teams so we can play with friends vs other teams. Simple AI to walk to/from enemy/ally. Spells tooltip and some basic UI.
-https://github.com/user-attachments/assets/95e511df-0af3-418f-9f3c-6b39fb2bc8a7
 
-
+https://github.com/jakkwi/Games/blob/main/TopDownRPG/Screenshots/ai%20combat%20less%20than%2010mb.mp4
