@@ -16,3 +16,6 @@ The game contains on day 20.09.2024:
 
 - Spells: Units (and debug menu) can cast spells with or without line of sight. Single target and/or area of effect. Linetraces, range, shape of spell, and LoS can be modified during game.
 ![alt text](https://raw.githubusercontent.com/jakkwi/Games/refs/heads/main/TopDownRPG/Screenshots/spells.png?raw=true)
+
+- Combat and AI: Units can move and cast a spell to heal/damage the other units. Teams so we can play with friends vs other teams. Simple AI to walk to/from enemy/ally. Spells tooltip and some basic UI.
+![alt text](https://github.com/jakkwi/Games/blob/main/TopDownRPG/Screenshots/ai%20combat.mp4?raw=false)
