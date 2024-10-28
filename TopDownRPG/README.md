@@ -21,3 +21,7 @@ The game contains on day 20.09.2024:
 
 [https://github.com/jakkwi/Games/blob/main/TopDownRPG/Screenshots/ai%20combat%20less%20than%2010mb.mp4
 ](https://github.com/user-attachments/assets/f9aa364d-4a78-4530-848f-9341ded0230f)
+
+- We can attack random walking group of monster, fight them and after win/lose we are getting back to world.
+
+https://github.com/user-attachments/assets/5f95e082-c7fc-40b4-ba6a-46ace917af96
