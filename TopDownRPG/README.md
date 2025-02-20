@@ -25,3 +25,6 @@ The game contains on day 20.09.2024:
 - We can attack random walking group of monster, fight them and after win/lose we are getting back to world.
 
 https://github.com/user-attachments/assets/5f95e082-c7fc-40b4-ba6a-46ace917af96
+
+Update 20.02.2025
+The project was done fully in blueprints, so for next learning step, I'm rewritting it to full c++ project. I will post new screenshots as soon as I finish completly changing it to c++ and add a inventory system.
